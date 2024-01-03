@@ -27,6 +27,7 @@ The study utilizes a dataset of 50,000 IMDB movie reviews, split evenly for trai
 
 
 **Conclusion**
+<br>
 The study concludes that BERT provides superior accuracy in sentiment analysis but at a higher computational cost compared to Naive Bayes. Future work may explore optimizing these models for different types of textual data and further refine their efficiency.
 
 
