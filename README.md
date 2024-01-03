@@ -6,7 +6,7 @@ Authors: Brandon Park, Sean Li, Yanis Mouazer
 
 This project explores the implementation and comparison of Naive Bayes and BERT models in classifying sentiments of IMDB movie reviews. We investigate the trade-offs between traditional machine learning and deep learning methods in terms of training speed, accuracy, and computational resources.
 
-**Introduction**
+**Introduction** <br>
 
 The project aims to evaluate the performance of Naive Bayes and BERT models in sentiment analysis. While Naive Bayes offers simplicity and faster training times, BERT's deep learning approach provides a more nuanced understanding of language, albeit with higher computational demands.
 
